@@ -164,7 +164,8 @@ PRODUCT_PACKAGES += \
     init.flo.usb.rc \
     init.recovery.flo.rc \
     ueventd.rc \
-    ueventd.flo.rc
+    ueventd.flo.rc \
+    init.nethunter.rc
 
 # stlport
 PRODUCT_PACKAGES += \
